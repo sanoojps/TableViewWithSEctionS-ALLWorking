@@ -1,0 +1,436 @@
+TATableView
+v7
+r0
+t393884687.903850
+cCheck dependencies
+cProcessInfoPlistFile /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/Info.plist ATableView-Info.plist
+cCompileXIB /Users/User/Dropbox/ApP4U/ATableView/MainWindow.xib
+cProcessPCH /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-awjsnjzqovuffuguokrduylxdtxu/ATableView_Prefix.pch.gch ATableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-ckwhexrxdjyxqnehbzkaqymleshi/ATableView_Prefix.pch.pth ATableView_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/main.o /Users/User/Dropbox/ApP4U/ATableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/ATableViewAppDelegate.o /Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/ItemsViewController.o /Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/Possession.o /Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/PossessionController.o /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/PossessionStore.o /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/ATableView normal i386
+cAnalyze /Users/User/Dropbox/ApP4U/ATableView/main.m
+cAnalyze /Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m
+cAnalyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m
+cAnalyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m
+cAnalyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m
+cAnalyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m
+cGenerateDSYMFile /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app.dSYM /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/ATableView
+cTouch /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C9D945A0000000000000132
+t1285395546
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/User/Dropbox/ApP4U/ATableView/ATableView_Prefix.pch
+c0000000051C9E58D00000000000000BD
+t1372185997
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.h
+c0000000051C9FC85000000000000013C
+t1372191877
+s316
+i<Foundation/Foundation.h>
+
+N/Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m
+c0000000051C9FC850000000000000600
+t1372191877
+s1536
+i"ItemsViewController.h"
+i"PossessionController.h"
+i"PossessionStore.h"
+i"Possession.h"
+
+N/Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m
+c0000000051C60AF200000000000004B9
+t1371933426
+s1209
+i"Possession.h"
+
+N/Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m
+c0000000051C9DECB0000000000002350
+t1372184267
+s9040
+i"PossessionController.h"
+i"Possession.h"
+
+N/Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m
+c0000000051C9F1F00000000000000371
+t1372189168
+s881
+i"PossessionStore.h"
+i"PossessionController.h"
+i"Possession.h"
+
+N/Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.h
+c0000000051C9E58D000000000000015C
+t1372185997
+s348
+i<UIKit/UIKit.h>
+
+N/Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m
+c0000000051C9E8060000000000000AC7
+t1372186630
+s2759
+i"ATableViewAppDelegate.h"
+i"ItemsViewController.h"
+
+N/Users/User/Dropbox/ApP4U/ATableView/ItemsViewController.h
+c0000000051C9FC85000000000000013C
+t1372191877
+s316
+i<Foundation/Foundation.h>
+
+N/Users/User/Dropbox/ApP4U/ATableView/MainWindow.xib
+c0000000051C9E58D0000000000002117
+t1372185997
+s8471
+
+N/Users/User/Dropbox/ApP4U/ATableView/Possession.h
+c0000000051C402D00000000000000471
+t1371800272
+s1137
+i<Foundation/Foundation.h>
+
+N/Users/User/Dropbox/ApP4U/ATableView/PossessionController.h
+c0000000051C60C2B0000000000000196
+t1371933739
+s406
+i<Foundation/Foundation.h>
+
+N/Users/User/Dropbox/ApP4U/ATableView/PossessionStore.h
+c0000000051C9F1F00000000000000165
+t1372189168
+s357
+i<Foundation/Foundation.h>
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/ATableView.LinkFileList
+c0000000051C9FC8A0000000000000335
+t1372191882
+s821
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/ATableViewAppDelegate.o
+t1372191885
+s47656
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/ItemsViewController.o
+t1372191885
+s38756
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/Possession.o
+t1372191886
+s10420
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/PossessionController.o
+t1372191886
+s22596
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/PossessionStore.o
+t1372191886
+s10468
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/main.o
+t1372191885
+s6300
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/StaticAnalyzer/normal/i386/ATableViewAppDelegate.plist
+t1372191887
+s276
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/StaticAnalyzer/normal/i386/ItemsViewController.plist
+t1372191887
+s276
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/StaticAnalyzer/normal/i386/Possession.plist
+t1372191887
+s276
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/StaticAnalyzer/normal/i386/PossessionController.plist
+t1372191887
+s276
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/StaticAnalyzer/normal/i386/PossessionStore.plist
+t1372191887
+s276
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/StaticAnalyzer/normal/i386/main.plist
+t1372191886
+s276
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app
+t1372191887
+s204
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app.dSYM
+t1372191887
+s102
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/ATableView
+t1372191886
+s29904
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/Info.plist
+t1372191882
+s603
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/MainWindow.nib
+t1372191883
+s987
+
+N/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/PkgInfo
+t1372191882
+s8
+
+N/Users/User/Dropbox/ApP4U/ATableView/main.m
+c0000000051C9E58D0000000000000178
+t1372185997
+s376
+i<UIKit/UIKit.h>
+
+N/var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-awjsnjzqovuffuguokrduylxdtxu/ATableView_Prefix.pch.gch
+t1372191884
+s15232016
+
+N/var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-ckwhexrxdjyxqnehbzkaqymleshi/ATableView_Prefix.pch.pth
+t1372188408
+s2690408
+
+NATableView-Info.plist
+c0000000051C9E58D000000000000038D
+t1372185997
+s909
+
+CAnalyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m
+s393884687.049492
+e393884687.288616
+r1
+xAnalyze
+x/Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m
+lSLF07#2@77"Analyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m393884687#393884687#0(0"0(0#0#69"/Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m8626814304#1989"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-ckwhexrxdjyxqnehbzkaqymleshi/ATableView_Prefix.pch --analyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m -o /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/StaticAnalyzer/normal/i386/ItemsViewController.plist0#
+
+CAnalyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m
+s393884687.288702
+e393884687.489880
+r1
+xAnalyze
+x/Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m
+lSLF07#2@68"Analyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m393884687#393884687#0(0"0(0#0#60"/Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m8637707936#1971"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-ckwhexrxdjyxqnehbzkaqymleshi/ATableView_Prefix.pch --analyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m -o /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/StaticAnalyzer/normal/i386/Possession.plist0#
+
+CAnalyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m
+s393884687.489969
+e393884687.620220
+r1
+xAnalyze
+x/Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m
+lSLF07#2@78"Analyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m393884687#393884687#0(0"0(0#0#70"/Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m8636414944#1991"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-ckwhexrxdjyxqnehbzkaqymleshi/ATableView_Prefix.pch --analyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m -o /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/StaticAnalyzer/normal/i386/PossessionController.plist0#
+
+CAnalyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m
+s393884687.620303
+e393884687.766020
+r1
+xAnalyze
+x/Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m
+lSLF07#2@73"Analyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m393884687#393884687#0(0"0(0#0#65"/Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m8636156160#1981"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-ckwhexrxdjyxqnehbzkaqymleshi/ATableView_Prefix.pch --analyze /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m -o /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/StaticAnalyzer/normal/i386/PossessionStore.plist0#
+
+CAnalyze /Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m
+s393884686.905249
+e393884687.049409
+r1
+xAnalyze
+x/Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m
+lSLF07#2@76"Analyze /Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m393884686#393884687#0(0"0(0#0#68"/Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m8634889312#1990"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-ckwhexrxdjyxqnehbzkaqymleshi/ATableView_Prefix.pch --analyze /Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m -o /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/StaticAnalyzer/normal/i386/ATableViewAppDelegate.plist0#
+
+CAnalyze /Users/User/Dropbox/ApP4U/ATableView/main.m
+s393884686.782106
+e393884686.905166
+r1
+xAnalyze
+x/Users/User/Dropbox/ApP4U/ATableView/main.m
+lSLF07#2@51"Analyze /Users/User/Dropbox/ApP4U/ATableView/main.m393884686#393884686#0(0"0(0#0#43"/Users/User/Dropbox/ApP4U/ATableView/main.m8636248416#1948"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-ckwhexrxdjyxqnehbzkaqymleshi/ATableView_Prefix.pch --analyze /Users/User/Dropbox/ApP4U/ATableView/main.m -o /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies393884682#393884682#0(0"0(0#1#0"8638274944#0"0#
+
+CCompileC build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/ATableViewAppDelegate.o /Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s393884685.246392
+e393884685.549265
+r1
+xCompileC
+xbuild/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/ATableViewAppDelegate.o
+x/Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m393884685#393884685#0(0"0(0#0#68"/Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m8635319840#1981"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-awjsnjzqovuffuguokrduylxdtxu/ATableView_Prefix.pch -c /Users/User/Dropbox/ApP4U/ATableView/Classes/ATableViewAppDelegate.m -o /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/ATableViewAppDelegate.o0#
+
+CCompileC build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/ItemsViewController.o /Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s393884685.549356
+e393884685.860383
+r1
+xCompileC
+xbuild/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/ItemsViewController.o
+x/Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m393884685#393884685#0(0"0(0#0#69"/Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m8633424256#1980"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-awjsnjzqovuffuguokrduylxdtxu/ATableView_Prefix.pch -c /Users/User/Dropbox/ApP4U/ATableView/Classes/../ItemsViewController.m -o /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/ItemsViewController.o0#
+
+CCompileC build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/Possession.o /Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s393884685.860473
+e393884686.128527
+r1
+xCompileC
+xbuild/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/Possession.o
+x/Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m393884685#393884686#0(0"0(0#0#60"/Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m8638274560#1962"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-awjsnjzqovuffuguokrduylxdtxu/ATableView_Prefix.pch -c /Users/User/Dropbox/ApP4U/ATableView/Classes/../Possession.m -o /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/Possession.o0#
+
+CCompileC build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/PossessionController.o /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s393884686.128617
+e393884686.430339
+r1
+xCompileC
+xbuild/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/PossessionController.o
+x/Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m393884686#393884686#0(0"0(0#0#70"/Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m8636450784#1982"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-awjsnjzqovuffuguokrduylxdtxu/ATableView_Prefix.pch -c /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionController.m -o /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/PossessionController.o0#
+
+CCompileC build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/PossessionStore.o /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s393884686.430430
+e393884686.716172
+r1
+xCompileC
+xbuild/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/PossessionStore.o
+x/Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m393884686#393884686#0(0"0(0#0#65"/Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m8634363808#1972"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-awjsnjzqovuffuguokrduylxdtxu/ATableView_Prefix.pch -c /Users/User/Dropbox/ApP4U/ATableView/Classes/../PossessionStore.m -o /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/PossessionStore.o0#
+
+CCompileC build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/main.o /Users/User/Dropbox/ApP4U/ATableView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s393884685.005611
+e393884685.246272
+r1
+xCompileC
+xbuild/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/main.o
+x/Users/User/Dropbox/ApP4U/ATableView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/User/Dropbox/ApP4U/ATableView/main.m393884685#393884685#0(0"0(0#0#43"/Users/User/Dropbox/ApP4U/ATableView/main.m8636339360#1939"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-awjsnjzqovuffuguokrduylxdtxu/ATableView_Prefix.pch -c /Users/User/Dropbox/ApP4U/ATableView/main.m -o /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/User/Dropbox/ApP4U/ATableView/MainWindow.xib
+s393884682.703118
+e393884683.776236
+r1
+xCompileXIB
+x/Users/User/Dropbox/ApP4U/ATableView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib393884682#393884683#0(0"0(0#0#51"/Users/User/Dropbox/ApP4U/ATableView/MainWindow.xib8627624160#567"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/MainWindow.nib /Users/User/Dropbox/ApP4U/ATableView/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app.dSYM /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/ATableView
+s393884687.766122
+e393884687.893394
+r1
+xGenerateDSYMFile
+x/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app.dSYM
+x/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/ATableView
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/ATableView.app.dSYM build/Debug-iphonesimulator/ATableView.app/ATableView393884687#393884687#0(0"0(0#0#90"/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/ATableView8610376288#386"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/ATableView -o /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app.dSYM0#
+
+CLd /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/ATableView normal i386
+s393884686.716431
+e393884686.780492
+r1
+xLd
+x/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/ATableView
+xnormal
+xi386
+lSLF07#2@95"Link /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/ATableView393884686#393884686#0(0"0(0#0#0"8636873248#905"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -filelist /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/Objects-normal/i386/ATableView.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/ATableView0#
+
+CProcessInfoPlistFile /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/Info.plist ATableView-Info.plist
+s393884682.693349
+e393884682.703034
+r1
+xProcessInfoPlistFile
+x/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/Info.plist
+xATableView-Info.plist
+lSLF07#2@29"Process ATableView-Info.plist393884682#393884682#0(0"0(0#0#58"/Users/User/Dropbox/ApP4U/ATableView/ATableView-Info.plist8630965312#482"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ATableView-Info.plist -genpkginfo /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app/Info.plist0#
+
+CProcessPCH /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-awjsnjzqovuffuguokrduylxdtxu/ATableView_Prefix.pch.gch ATableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s393884683.776358
+e393884685.005018
+r1
+xProcessPCH
+x/var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-awjsnjzqovuffuguokrduylxdtxu/ATableView_Prefix.pch.gch
+xATableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile ATableView_Prefix.pch393884683#393884685#0(0"0(0#0#58"/Users/User/Dropbox/ApP4U/ATableView/ATableView_Prefix.pch8638113216#1830"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -c /Users/User/Dropbox/ApP4U/ATableView/ATableView_Prefix.pch -o /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-awjsnjzqovuffuguokrduylxdtxu/ATableView_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-ckwhexrxdjyxqnehbzkaqymleshi/ATableView_Prefix.pch.pth ATableView_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s393881208.313143
+e393881208.963810
+r1
+xProcessPCH
+x/var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-ckwhexrxdjyxqnehbzkaqymleshi/ATableView_Prefix.pch.pth
+xATableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@32"Precompile ATableView_Prefix.pch393881208#393881208#0(0"0(0#0#58"/Users/User/Dropbox/ApP4U/ATableView/ATableView_Prefix.pch8622771904#1821"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-generated-files.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/ATableView-project-headers.hmap -F/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/ATableView/build/ATableView.build/Debug-iphonesimulator/ATableView.build/DerivedSources -c /Users/User/Dropbox/ApP4U/ATableView/ATableView_Prefix.pch -o /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ATableView_Prefix-ckwhexrxdjyxqnehbzkaqymleshi/ATableView_Prefix.pch.pth0#
+
+CTouch /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app
+s393884687.893475
+e393884687.903809
+r1
+xTouch
+x/Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app
+lSLF07#2@85"Touch /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app393884687#393884687#0(0"0(0#0#0"8635323072#277"    cd /Users/User/Dropbox/ApP4U/ATableView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/User/Dropbox/ApP4U/ATableView/build/Debug-iphonesimulator/ATableView.app0#
+
